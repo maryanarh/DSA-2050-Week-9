@@ -1,0 +1,11 @@
+{
+  "selected_model": "Logistic regression",
+  "best_params": {
+    "model__C": 1
+  },
+  "primary_metric": "f1",
+  "cv_mean_f1": 0.47009865843703824,
+  "rationale": "Logistic Regression with C = 1 was selected because it achieved a mean cross-validation F1-score of 0.470, outperforming the best Decision Tree (0.398). It also offers interpretable coefficients that help explain factors associated with customer churn. However, its 566 false negatives indicate that it still struggles to identify customers who will leave.",
+  "random_seed": 42,
+  "scikit_learn_version": "1.9.1"
+}
