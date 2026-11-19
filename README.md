@@ -12,9 +12,11 @@ The lab was completed collaboratively using one shared notebook and repository. 
 
 | Group member | Student ID | Work completed | GitHub username or commit reference |
 |---|---|---|---|
-| Mark Mayana | 669482 | [Contribution] | maryanarh |
-| Lesala Monaheng | 669 | [Contribution] | [Username/commit] |
-| Nicholas Wanjiku | 670 | [Contribution] | [Username/commit] |
+| Name | Student ID | Contribution | Evidence |
+|---|---|---|---|
+| Mark Mayana | 669482 | Data inspection, leakage exclusions, leakage-safe preprocessing pipeline, stratified 5-fold CV setup (Steps 1–3) | `maryanarh` — commits: "Start Week 9 model selection lab", "Add leakage-safe pipelines and fixed CV" |
+| Lesala Monaheng | 669[___] | Hyperparameter tuning for logistic regression and decision tree, experiment log, out-of-fold confusion matrix and error analysis (Steps 4–7) | [GitHub username] — commit: "Add model tuning, experiment log and OOF error analysis" |
+| Nicholas Wanjiku | 676114 | Subgroup analysis, permutation importance, selection rationale, frozen selection and one-time final test, README and repo final checks (Steps 8–10 + reflection) | [GitHub username] — commits: "Add subgroup analysis and permutation importance", "Freeze selection, run final test and write README" ||
 
 ## Study Objective
 
