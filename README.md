@@ -208,4 +208,4 @@ Before deploying a real churn prediction system, the model should be validated u
 
 ## GitHub Repository URL
 
-[Paste the shared GitHub repository URL here]
+https://github.com/maryanarh/DSA-2050-Week-9
